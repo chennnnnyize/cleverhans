@@ -145,4 +145,4 @@ revision. GitHub contributors will be added to the author list.
 
 ## Copyright
 
-Copyright 2017 b- OpenAI and Pennsylvania State University.
+Copyright 2017 - OpenAI and Pennsylvania State University.
